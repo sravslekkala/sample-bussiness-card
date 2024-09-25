@@ -1,2 +1,2 @@
 # sample-bussiness-card
-<img width="598" alt="image" src="https://github.com/user-attachments/assets/2849c764-f70b-409c-8ad5-6a7059ef1e73">
+<img width="583" alt="image" src="https://github.com/user-attachments/assets/17c49108-1f6e-4018-a4ea-dc45dd81a23c">
