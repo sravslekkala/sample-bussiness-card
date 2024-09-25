@@ -64,7 +64,7 @@ fun LogoNameTitleSection() {
     ) {
         // Logo Image
         Image(
-            painter = painterResource(id = R.drawable.android_logo), // Replace with your logo
+            painter = painterResource(id = R.drawable.android_logo),
             contentDescription = "Android Logo",
             modifier = Modifier.size(100.dp),
             contentScale = ContentScale.Fit
@@ -74,7 +74,7 @@ fun LogoNameTitleSection() {
 
         // Name Text
         Text(
-            text = "Jennifer Doe",
+            text = "Sai Sravani L",
             fontSize = 36.sp,  // Larger font for name
             fontWeight = FontWeight.Bold,
             color = Color.Black
@@ -96,10 +96,10 @@ fun ContactInfoSection() {
     ContactInfoRow(iconId = R.drawable.ic_phone, info = "+11 (123) 444 555 666")
 
     // Second row for social media handle
-    ContactInfoRow(iconId = R.drawable.ic_share, info = "@AndroidDev")
+    ContactInfoRow(iconId = R.drawable.ic_share, info = "@AndroidSravs")
 
     // Third row for email contact
-    ContactInfoRow(iconId = R.drawable.ic_email, info = "jen.doe@android.com")
+    ContactInfoRow(iconId = R.drawable.ic_email, info = "sai.sravani@android.com")
 }
 
 @Composable
